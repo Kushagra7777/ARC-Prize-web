@@ -26,5 +26,5 @@ You need to replace app folder with the arc_prize repository app folder.
         pip install -r requirements.txt
          
     
-First run the app.py file to setup backend and make sure to change the path. Then open the html app. 
+First run the app.py file to setup backend and make sure to change the path in the file. Then open the html app. 
 
